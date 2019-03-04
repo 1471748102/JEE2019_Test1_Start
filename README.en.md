@@ -1,7 +1,14 @@
+<<<<<<< HEAD
 # Test
 
 #### Description
 这只是一个简单的测试
+=======
+# JavaWeb
+
+#### Description
+Struts框架的学习
+>>>>>>> 6dddd1090475d0d39ea67b3373a5b7f6edad1904
 
 #### Software Architecture
 Software architecture description
