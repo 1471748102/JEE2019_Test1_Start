@@ -13,7 +13,7 @@ public class LoginAction extends ActionSupport {
 	private String password;
 	 
 	public String execute() throws Exception {
- 
+ 		//简单应用
 		//System.out.println("账号:" + getName());
 		//System.out.println("密码:"+ getPassword());
  
