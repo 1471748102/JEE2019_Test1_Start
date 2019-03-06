@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Test
 
 #### 介绍
@@ -42,3 +43,14 @@ Struts框架的学习
 4. [GVP](https://gitee.com/gvp) 全称是码云最有价值开源项目，是码云综合评定出的优秀开源项目
 5. 码云官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
 6. 码云封面人物是一档用来展示码云会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+=======
+**实验一  简单学生信息管理系统—登录**   
+**一.实验目的**   
+1 熟悉 Struts2 开发环境。   
+2 掌握 Struts2 安装及配置及开发。   
+3 掌握 IDE中配置Struts2的方法。能用IDE新建Struts2工程、部署、运行，实现一个登录页面。   
+**二.实验内容**   
+完成以下任务，实验报告只写第2题，只写主要代码。   
+1.在input.jsp输入两个数，并由用户选择加、减、乘、除（单选），在res.jsp显示计算的结果。   
+2.在IDE中新建一个Struts2工程，实现一个简单的登录页面，并在另一页面显示输入的信息。不需要验证是否是合法的登录。（输入信息页面、显示已输入信息页面、struts.xml、action）   
+>>>>>>> 7dd72a89d5c37e5b28c0bc0a97e9d6420498b575
