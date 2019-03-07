@@ -1,16 +1,16 @@
 <%--
   Created by IntelliJ IDEA.
-  User: ljc
-  Date: 2019/2/24
-  Time: 23:49
+  User: Hzw
+  Date: 2019/3/7
+  Time: 12:34
   To change this template use File | Settings | File Templates.
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>wel,struts2</title>
+    <title>fail</title>
 </head>
 <body>
-Struts2+Spring(Spring Boot)+MyBatis+Redis+JQuery
+除数为零.
 </body>
 </html>

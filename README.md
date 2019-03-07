@@ -3,12 +3,15 @@
 # Test
 
 #### 介绍
-这只是一个简单的测试
+实验一的两个内容，四则运算和的登录页面
+
 =======
 # JavaWeb
 
 #### 介绍
-Struts框架的学习
+Struts.xml，web.xml的配置
+ 1.四则运算中，输入：inputcal.jsp 结果：rescal.jsp 错误：errorcal.jsp  .action文件在com.cal下
+ 2.登录页面中，输入：Input.jsp  结果：Hello.jsp 错误：Error.jsp  action文件在com.login下
 >>>>>>> 6dddd1090475d0d39ea67b3373a5b7f6edad1904
 
 #### 软件架构

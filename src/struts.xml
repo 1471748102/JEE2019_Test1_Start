@@ -15,6 +15,14 @@
             <result name="success">/Hello.jsp</result>
             <result name="error">/Error.jsp</result>
         </action>
+
+    </package>
+
+    <package name="com.cal" extends="struts-default">
+        <action name="test" class="com.Action" method="execute">
+            <result name="rest">/rescal.jsp</result>
+            <result name="fail">/errorcal.jsp</result>
+        </action>
     </package>
 
 </struts>
